@@ -1,0 +1,24 @@
+{
+  "name": "cache-timing-test",
+  "version": "1.0.0",
+  "description": "Simple test to find fetch times from an in-memory cache",
+  "main": "test.js",
+  "dependencies": {
+    "memory-cache": "^0.2.0",
+    "microtime": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tausif-farooqi/cache-timing-test.git"
+  },
+  "author": "Tausif Farooqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tausif-farooqi/cache-timing-test/issues"
+  },
+  "homepage": "https://github.com/tausif-farooqi/cache-timing-test#readme"
+}
